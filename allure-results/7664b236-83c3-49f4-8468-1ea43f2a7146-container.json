@@ -1,0 +1,1 @@
+{"uuid":"7664b236-83c3-49f4-8468-1ea43f2a7146","name":"crm_tests.LoginTest","children":["fb922ace-0c10-4120-a316-116cf74721a9"],"befores":[{"name":"browser_launch","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720081233452,"stop":1720081235737}],"afters":[],"start":1720081233414,"stop":1720081267029}
